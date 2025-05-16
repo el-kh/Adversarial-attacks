@@ -22,7 +22,7 @@ The repository includes the following Jupyter notebooks, each implementing a spe
 
 ---
 
-## 💙 Attack Comparison Table
+## Attack Comparison Table
 
 This table provides a high-level comparison of all the adversarial attacks implemented in this project.
 
@@ -39,7 +39,7 @@ This table provides a high-level comparison of all the adversarial attacks imple
 | **Clean-Label Feature Collision** | Targeted | Vision | Optimization-based | White-box | Poisoning | Iterative | Very Low | Inserts clean-looking samples into training to misclassify a specific target at test time |
 
 
-## 💙 Installation Instructions
+## Installation Instructions
 
 1.  Clone this repository:
 
@@ -94,7 +94,7 @@ This project works on:
 
   Make sure to use a GPU-enabled environment (e.g., CUDA-compatible machine or Google Colab) for optimal performance. 
 
-## ❤️‍🩹 Requirements Snapshot
+## ❤ Requirements Snapshot
 
 Key libraries (see requirements.txt for full list):
 
