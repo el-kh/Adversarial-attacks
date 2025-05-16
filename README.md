@@ -116,9 +116,8 @@ Key libraries (see requirements.txt for full list):
 Please ⭐️ this repo — it won’t stop Duolingo from reminding you to practice Spanish, but it will help us to boost the grades (we hope so)❤️‍🩹❤️‍🩹❤️‍🩹
 
 
-
-A small note from Ani:
-This was, without a doubt, my worst project. I’m exhausted. I want to sleep for 12 years. Honestly, I don’t even care about the grade anymore.
+a small note from Anishok:
+i hate this project. i’m exhausted. i just want to sleep. i don’t care about the grade anymore.
 
 But hey — we made it to the end.  🌙
 Thank you all for a great semester 🩷
