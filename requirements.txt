@@ -1,11 +1,10 @@
-torch==2.6.0+cu124
+torch==2.6.0
 torchvision==0.15.2
 numpy==1.26.2
 matplotlib==3.7.1
 Pillow==9.5.0
 requests==2.31.0
 urllib3==2.0.7
-
 ftfy==6.3.1
 regex==2.5.148
 tqdm==4.67.1
@@ -17,3 +16,12 @@ accelerate==0.20.3
 safetensors==0.3.1
 open_clip_torch==2.0.2
 nltk==3.8.1
+datasets==2.19.0
+pandas==1.3.0
+safetensors==0.3.1
+scikit-learn==1.0.2
+scipy==1.5.0
+textattack==0.3.8
+textbugger==0.1.0
+tqdm==4.67.1
+transformers==4.40.1
