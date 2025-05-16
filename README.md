@@ -16,8 +16,8 @@ The repository includes the following Jupyter notebooks, each implementing a spe
 | `projected_gradient_descent_method.ipynb` | **PGD (Projected Gradient Descent)** is a widely used, iterative attack and benchmark for adversarial robustness. This notebook demonstrates a strong untargeted image attack. |
 | `one_multi_pixel_attacks.ipynb` | **One-Pixel and Multi-Pixel Attacks** show that even single-pixel changes can drastically affect model output. These are useful for understanding boundary sensitivity. |
 | `latent_masking.ipynb` | Explores internal **latent representation manipulation** rather than raw inputs. Offers insights into vulnerabilities in feature space. |
-| `CLIP.ipynb` | Attacks **CLIP models** by manipulating text-image embeddings. Included due to the growing use of multimodal models in real-world systems. |
-| `TextBugger.ipynb` | **TextBugger** is a powerful NLP attack that alters text minimally while fooling sentiment or classification models. Highlights risks in language applications. |
+| `CLIP__.ipynb` | Attacks **CLIP models** by manipulating text-image embeddings. Included due to the growing use of multimodal models in real-world systems. |
+| `TextBugger__.ipynb` | **TextBugger** is a powerful NLP attack that alters text minimally while fooling sentiment or classification models. Highlights risks in language applications. |
 | `fast_gradient_sign_method.ipynb` | **FGSM (Fast Gradient Sign Method)** is a foundational one-step attack based on gradient sign. Included as a baseline and educational reference. |
 
 ---
@@ -68,8 +68,8 @@ Run any of the following notebooks:
 * `projected_gradient_descent_method.ipynb`
 * `one_multi_pixel_attacks.ipynb`
 * `latent_masking.ipynb`
-* `CLIP.ipynb`
-* `TextBugger.ipynb`
+* `CLIP__.ipynb`
+* `TextBugger__.ipynb`
 * `fast_gradient_sign_method.ipynb`
 * `clean_label_feature_collision.ipynb`
 
