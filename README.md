@@ -94,7 +94,7 @@ This project works on:
 
   Make sure to use a GPU-enabled environment (e.g., CUDA-compatible machine or Google Colab) for optimal performance. 
 
-## ❤ Requirements Snapshot
+## Requirements Snapshot
 
 Key libraries (see requirements.txt for full list):
 
@@ -115,10 +115,10 @@ Key libraries (see requirements.txt for full list):
 
 Please ⭐️ this repo — it won’t stop Duolingo from reminding you to practice Spanish, but it will help us to boost the grades (we hope so)❤️‍🩹❤️‍🩹❤️‍🩹
 
+But hey — we made it to the end.  🌙
+Thank you all for a great semester 🩷
 
 a small note from Anishok:
 i hate this project. i’m exhausted. i just want to sleep. i don’t care about the grade anymore.
 
-But hey — we made it to the end.  🌙
-Thank you all for a great semester 🩷
 
