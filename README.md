@@ -2,15 +2,15 @@
 
 This project explores a range of **adversarial attack techniques** in both **computer vision** and **natural language processing**. It provides hands-on implementations, visual analysis, and step-by-step explanations for each method.
 
-🎯 The goal is to demonstrate the vulnerabilities of modern deep learning models and help users understand how small, often imperceptible, perturbations can cause misclassification.
+💚 The goal is to demonstrate the vulnerabilities of modern deep learning models and help users understand how small, often imperceptible, perturbations can cause misclassification.
 
 ---
 
-## 📚 Project Overview
+## 🩷 Project Overview
 
 The repository includes the following Jupyter notebooks, each implementing a specific adversarial method:
 
-| 📁 Notebook | 🧪 Description & Justification |
+| 💚 Notebook | 🩷 Description & Justification |
 |-------------|-------------------------------|
 | `deepfool.ipynb` | **DeepFool** computes minimal perturbations that cross decision boundaries. Included to demonstrate how imperceptibly small changes can fool even robust models. |
 | `projected_gradient_descent_method.ipynb` | **PGD (Projected Gradient Descent)** is a widely used, iterative attack and benchmark for adversarial robustness. This notebook demonstrates a strong untargeted image attack. |
@@ -26,13 +26,13 @@ The repository includes the following Jupyter notebooks, each implementing a spe
 
 This table provides a high-level comparison of all the adversarial attacks implemented in this project.
 
-|  **Attack** | 🎯 **Type** | 📂**Domain** |⚙️**Method** |🔐**Access** | 🚨**Class** | 🔁**Steps** |👁️**Perceptibility** | 📝**Notes** |
+|  **Attack** |  **Type** | **Domain** |**Method** |**Access** | **Class** | **Steps** |**Perceptibility** | **Notes** |
 |---------------|-------------|---------------|--------------------------|----------------|----------------|----------------|----------------------|---------------------------|
 | **FGSM** | Untargeted | Vision | Gradient-based | White-box | Evasion | 1 | Low | Fast & simple baseline attack |
 | **PGD** | Untargeted | Vision | Gradient-based (iterative) | White-box | Evasion | Many | Low | Stronger than FGSM; widely used benchmark |
 | **DeepFool** | Untargeted | Vision | Optimization-based | White-box | Evasion | Iterative | Very Low | Computes minimal boundary-crossing perturbations |
 | **One Pixel Attack** | Untargeted | Vision | Score-based | Black-box | Evasion | Few | Low | Alters only 1–5 pixels using optimization |
-| **Latent Masking** | Untargeted | Vision | Optimization-based | White-box | Evasion | Iterative | Medium | Perturbs internal (latent) representations |
+| **Latent Masking** | Untargeted | Vision | Optimization-based | White-box and Black-box| Evasion | Iterative | Medium | Perturbs internal (latent) representations |
 | **CLIP Embedding Attack** | Untargeted | Multimodal | Optimization-based | White-box | Evasion | Iterative | Low–Medium | Disrupts CLIP’s text–image embedding alignment |
 | **TextBugger** | Untargeted | NLP | Heuristic & Score-based | Black-box | Evasion | Varies | Low | Changes characters/words while preserving grammar and semantics |
 | **Fast Gradient Sign Method (FGSM)** | Untargeted | Vision | Gradient-based | White-box | Evasion | 1 | Low | Classic one-step attack using gradient sign |
@@ -41,14 +41,14 @@ This table provides a high-level comparison of all the adversarial attacks imple
 
 ## ⚙️ Installation Instructions
 
-1. 🧬 Clone this repository:
+1.  Clone this repository:
 
 ```bash
 git clone https://github.com/your-username/adversarial-attacks.git
 cd adversarial-attacks
 ```
 
-## 📦 Install dependencies:
+## 🩷 Install dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -60,6 +60,7 @@ Open a Jupyter Notebook environment:
 ``` bash
 jupyter notebook
 ```
+🩷🩷🩷 !!! **Better to run all in Google Colab** !!! 🩷🩷🩷
 
 Run any of the following notebooks:
 
@@ -85,15 +86,15 @@ Each notebook includes:
 
 This project works on:
 
-    🐧 Linux – Fully supported. Recommended for GPU acceleration and large model training.
+    🩷 Linux – Fully supported. Recommended for GPU acceleration and large model training.
 
-    🍎 macOS – Fully supported for CPU-based execution. GPU support is limited due to PyTorch constraints.
+    🩷 macOS – Fully supported for CPU-based execution. GPU support is limited due to PyTorch constraints.
 
-    🪟 Windows – Fully supported. Make sure to properly activate venv and use pip.
+    🩷 Windows – Fully supported. Make sure to properly activate venv and use pip.
 
   Make sure to use a GPU-enabled environment (e.g., CUDA-compatible machine or Google Colab) for optimal performance. 
 
-## 📦 Requirements Snapshot
+## ❤️‍🩹 Requirements Snapshot
 
 Key libraries (see requirements.txt for full list):
 
@@ -110,5 +111,7 @@ Key libraries (see requirements.txt for full list):
     nltk==3.8.1
 
 
+## ⭐️ If You Found This Helpful...
 
+Please ⭐️ this repo — it won’t stop Duolingo from reminding you to practice Spanish, but it will help us to boost the grades (we hope so)❤️‍🩹❤️‍🩹❤️‍🩹
 
