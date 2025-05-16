@@ -120,5 +120,6 @@ Please ⭐️ this repo — it won’t stop Duolingo from reminding you to pract
 A small note from Ani:
 This was, without a doubt, my worst project. I’m exhausted. I want to sleep for 12 years. Honestly, I don’t even care about the grade anymore.
 
-But hey — we made it to the end. So… bye. 🌙
+But hey — we made it to the end.  🌙
+Thank you all for a great semester 🩷
 
