@@ -22,7 +22,7 @@ The repository includes the following Jupyter notebooks, each implementing a spe
 
 ---
 
-## 📊 Attack Comparison Table
+## 💙 Attack Comparison Table
 
 This table provides a high-level comparison of all the adversarial attacks implemented in this project.
 
@@ -39,7 +39,7 @@ This table provides a high-level comparison of all the adversarial attacks imple
 | **Clean-Label Feature Collision** | Targeted | Vision | Optimization-based | White-box | Poisoning | Iterative | Very Low | Inserts clean-looking samples into training to misclassify a specific target at test time |
 
 
-## ⚙️ Installation Instructions
+## 💙 Installation Instructions
 
 1.  Clone this repository:
 
@@ -54,7 +54,7 @@ cd adversarial-attacks
 pip install -r requirements.txt
 ```
 
-# 🚀 Usage Instructions
+# 💚 Usage Instructions
 Open a Jupyter Notebook environment:
 
 ``` bash
