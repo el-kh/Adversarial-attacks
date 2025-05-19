@@ -111,14 +111,4 @@ Key libraries (see requirements.txt for full list):
     nltk==3.8.1
 
 
-## ⭐️ If You Found This Helpful...
-
-Please ⭐️ this repo — it won’t stop Duolingo from reminding you to practice Spanish, but it will help us to boost the grades (we hope so)❤️‍🩹❤️‍🩹❤️‍🩹
-
-But hey — we made it to the end.  🌙
-Thank you all for a great semester 🩷
-
-a small note from Anishok:
-i hate this project. i’m exhausted. i just want to sleep. i don’t care about the grade anymore.
-
 
